@@ -1,4 +1,0 @@
-/Users/namename/Desktop/of_preRelease_v0062_iphone_FAT-1/apps/iPhoneExamples/audioOutputExample/src/testApp.mm: In member function 'virtual void testApp::draw()':
-/Users/namename/Desktop/of_preRelease_v0062_iphone_FAT-1/apps/iPhoneExamples/audioOutputExample/src/testApp.mm:29: error: expected `;' before ':' token
-/Users/namename/Desktop/of_preRelease_v0062_iphone_FAT-1/apps/iPhoneExamples/audioOutputExample/src/testApp.mm:31: error: 'linePos' was not declared in this scope
-/Users/namename/Desktop/of_preRelease_v0062_iphone_FAT-1/apps/iPhoneExamples/audioOutputExample/src/testApp.mm:31: error: expected `;' before ')' token
